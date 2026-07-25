@@ -1,0 +1,11 @@
+{
+ "B00": "L3|3840x2160@24|crop|19.800|type-on|||50c621e83a452bb3b74fffa931a426a02477df30",
+ "B01": "L3|3840x2160@24|crop|19.180|illustrate|||e7a37c13d9de11e6c4f45ce661e47ac7fb1e3b6c",
+ "B02": "L3|3840x2160@24|crop|4.820|illustrate|||35bac74e810e94d874297fb6c73e448819b28f1b",
+ "B03": "L3|3840x2160@24|crop|18.690|illustrate|||0d10cd165b133c6f4d488cc020d835e1e17fb1f3",
+ "B04": "L3|3840x2160@24|crop|19.070|illustrate|||24f453bd7a5383eb2b8302990dfc599774fb8646",
+ "B05": "L3|3840x2160@24|crop|25.540|stagger|||1051a81690cbf3f8f8e1bb973b10c18613446955",
+ "B06": "L3|3840x2160@24|crop|19.710|type-on|||b12f4fcaa4e36528ed40eadd58b6c3ea0fbc14bb",
+ "B07": "L3|3840x2160@24|crop|2.750|fade|||d15de8a5677d142a70dade7279ea18043c4ff0ae",
+ "BINV": "L3|3840x2160@24|crop|16.130|kenburns|[0.5, 0.45]||a59bf8d3b143b5ec1007d2c86f1c60cfae85da1c"
+}
